@@ -1,0 +1,106 @@
+/*GENERAL*/
+a, p, #blog *, #griso *{
+	text-decoration: none;
+	color: #9B9B9B;
+}
+.white, #proyectos *{
+	color: white;
+}
+img{
+	width: 100%;
+}
+p{
+	size: 10px;
+}
+.espacio{
+	padding: 3% 0%;
+}
+.icono{
+	height: 40px;
+	width: 40px;
+}
+/*HEADER*/
+nav{
+	margin-top: 3%;
+}
+li{
+	display: inline-block;
+	padding: 2%;
+
+}
+.linea{
+	border-left: 1px solid #9B9B9B;
+	padding-left: 30px;
+}
+/*SECTION*/
+/*GRIS*/
+#grey, #blog{
+	background-image: url("../img/fondo2.jpg");
+	background-size: cover;
+	padding: 6% 15%;
+	margin: -1% 0% 3%;
+}
+ 
+/*MISION*/
+.mision{
+	width: 30%;
+}
+/*METODOLOGÍA*/
+#verde{
+	background-image: url("../img/fondo.jpg");
+	background-size: 100% 100%;
+	margin-left: -1.5%;
+	height: 295px;
+	padding: 4% 5% 4% 7%;
+}
+
+
+/*SERVICIOS*/
+
+#servicios h2, #equipo h2{
+	color: #65833B;
+}
+#servicios img{
+	width: 50%;
+}
+/*PROYECTOS*/
+#proyectos{
+	background-image: url("../img/fondo.jpg");
+	background-size: cover;
+	padding-left: 5%;
+}
+
+/*EQUIPO*/
+.equipo{
+	border-radius: 50%;
+	width: 60%;
+}
+/*BLOG*/
+#black{
+	color: black;
+}
+#blog .icono{
+	margin-top: 500%;
+}
+/*REDES SOCIALELS*/
+#griso{
+	background-color: #4D4D4D;
+	padding:5%;
+	margin:-3% 0% 0% 0%;
+}
+#griso .col-3{
+	border: 1px solid #9B9B9B;
+	padding-left: 5%;
+	padding-top: 3%;
+}
+
+#griso img{
+	margin: 50% 20% 10% 60%;
+}
+/*FOOTER*/
+footer{
+	background-color: #F2F2F2;
+}
+#naranja{
+	color: #E5C83F ;
+}
